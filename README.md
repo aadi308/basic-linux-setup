@@ -24,8 +24,8 @@ This repository contains a Bash script designed to quickly set up essential tool
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/aadi308/basic-linux-setup.git
+   cd basic-linux-setup
 
 ## Run the script
 
